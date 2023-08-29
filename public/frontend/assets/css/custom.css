@@ -1,0 +1,14 @@
+
+
+#are_you .box{
+    margin-top: 35px;
+    border: 1px solid black;
+    border-radius:50%;
+    height: 200px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 25%;
+}
